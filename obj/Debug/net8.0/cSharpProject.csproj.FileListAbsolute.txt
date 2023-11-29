@@ -1,0 +1,14 @@
+/Users/gabriel/Documents/code/cSharpProject/bin/Debug/net8.0/cSharpProject
+/Users/gabriel/Documents/code/cSharpProject/bin/Debug/net8.0/cSharpProject.deps.json
+/Users/gabriel/Documents/code/cSharpProject/bin/Debug/net8.0/cSharpProject.runtimeconfig.json
+/Users/gabriel/Documents/code/cSharpProject/bin/Debug/net8.0/cSharpProject.dll
+/Users/gabriel/Documents/code/cSharpProject/bin/Debug/net8.0/cSharpProject.pdb
+/Users/gabriel/Documents/code/cSharpProject/obj/Debug/net8.0/cSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/Documents/code/cSharpProject/obj/Debug/net8.0/cSharpProject.AssemblyInfoInputs.cache
+/Users/gabriel/Documents/code/cSharpProject/obj/Debug/net8.0/cSharpProject.AssemblyInfo.cs
+/Users/gabriel/Documents/code/cSharpProject/obj/Debug/net8.0/cSharpProject.csproj.CoreCompileInputs.cache
+/Users/gabriel/Documents/code/cSharpProject/obj/Debug/net8.0/cSharpProject.dll
+/Users/gabriel/Documents/code/cSharpProject/obj/Debug/net8.0/refint/cSharpProject.dll
+/Users/gabriel/Documents/code/cSharpProject/obj/Debug/net8.0/cSharpProject.pdb
+/Users/gabriel/Documents/code/cSharpProject/obj/Debug/net8.0/cSharpProject.genruntimeconfig.cache
+/Users/gabriel/Documents/code/cSharpProject/obj/Debug/net8.0/ref/cSharpProject.dll
